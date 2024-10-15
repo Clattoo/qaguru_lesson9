@@ -1,0 +1,21 @@
+{
+  "canBeRotated": false,
+  "searchVoiceClickSoundEnabled": true,
+  "items": [
+    {
+      "id": 1,
+      "name": "Item 1",
+      "description": "This is the description for item 1."
+    },
+    {
+      "id": 2,
+      "name": "Item 2",
+      "description": "This is the description for item 2."
+    },
+    {
+      "id": 3,
+      "name": "Item 3",
+      "description": "This is the description for item 3."
+    }
+  ]
+}
